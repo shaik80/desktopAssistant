@@ -19,6 +19,7 @@ pip3 install -r requirements.txt
 python desktopAssistant.py
 ````
 
+* Requirement
 ``` Requirement
 certifi==2017.11.5
 chardet==3.0.4
