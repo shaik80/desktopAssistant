@@ -21,5 +21,8 @@ python desktopAssistant.py
 
 
 Supported commands :
+* Open google
+* Open youtube
 * Tell a joke/another joke : Says a random dad joke.
 * What's up
+* who invented you
